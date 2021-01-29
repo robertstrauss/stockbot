@@ -5,7 +5,8 @@ Using the alpha vantage stock API, the bot fetches and sends to the chat a globa
 
 This code requires two files to be added:
 
-token.txt - containing the bot token of a discord bot
+token.txt - containing the bot token of a discord bot.
+
 apikey.txt - containing an API key for alpha vantage.
 
 These are .gitignore d for privacy.
